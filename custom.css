@@ -1,0 +1,13 @@
+.header{
+    border-bottom: 1px solid #7a7a7a !important;
+}
+
+
+.texto{
+    border-bottom: 1px solid #7a7a7a !important;
+    padding-top: 40px !important;
+}
+
+.bg-light{
+    background: linear-gradient(120deg, #aef3ae,#609c74);
+}
